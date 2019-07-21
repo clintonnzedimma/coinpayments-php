@@ -1,6 +1,6 @@
 <?php
-require('../src/Coinpayments.php');
-require('../src/keys.php');
+require('../src/CoinpaymentsAPI.php');
+require('../src/keys_example.php');
 
 /** Scenario: Show the currencies you accept and their exchange rates. Sample output in HTML **/
 
