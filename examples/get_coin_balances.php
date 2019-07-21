@@ -1,6 +1,6 @@
 <?php
-require('../src/Coinpayments.php');
-require('../src/keys.php');
+require('../src/CoinpaymentsAPI.php');
+require('../src/keys_example.php');
 
 /** Scenario: Show balances of all coins in account with USD conversion.**/
 // Create a new API wrapper instance and call to the balances and rates commands.
